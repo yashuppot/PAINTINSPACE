@@ -8,7 +8,7 @@ Ensure you have the following installed:
 * Python 3
 * pygame 2.00 or later
 
-Then, simply download the code and run main.py
+Then, simply download the code and run paint.py
 
 <br>
 
