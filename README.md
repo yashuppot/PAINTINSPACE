@@ -1,5 +1,5 @@
 # Paint In Space
-A space themed clone of Microsoft Paint made in python.
+A space themed clone of Microsoft Paint made in python using pygame and tkinter.
 
 <br>
 
