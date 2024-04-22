@@ -24,6 +24,8 @@ Then, simply download the code and run paint.py
 
 * Stickers
 
+<br>
+
 ## Demo
 ![Demo](demo_assets/demo_screenshot.png)
 
